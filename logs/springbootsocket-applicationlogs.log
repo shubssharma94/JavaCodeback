@@ -1,0 +1,24 @@
+2020-10-28 23:09:16,849 INFO com.suhas.springboot.jsonconverter.GenericJSONReaderWriterTest [main] Starting GenericJSONReaderWriterTest on kalyanisuhas-VPCEB36GM with PID 11029 (started by kalyanisuhas in /home/kalyanisuhas/SuhasWorkspace/SpringBootSocket)
+2020-10-28 23:09:16,887 DEBUG com.suhas.springboot.jsonconverter.GenericJSONReaderWriterTest [main] Running with Spring Boot v2.3.4.RELEASE, Spring v5.2.9.RELEASE
+2020-10-28 23:09:16,888 INFO com.suhas.springboot.jsonconverter.GenericJSONReaderWriterTest [main] The following profiles are active: prod
+2020-10-28 23:09:17,272 INFO com.suhas.springboot.jsonconverter.GenericJSONReaderWriterTest [main] Started GenericJSONReaderWriterTest in 1.493 seconds (JVM running for 4.666)
+2020-10-28 23:15:19,123 INFO com.suhas.springboot.jsonconverter.GenericJSONReaderWriterTest [main] Starting GenericJSONReaderWriterTest on kalyanisuhas-VPCEB36GM with PID 11175 (started by kalyanisuhas in /home/kalyanisuhas/SuhasWorkspace/SpringBootSocket)
+2020-10-28 23:15:19,137 DEBUG com.suhas.springboot.jsonconverter.GenericJSONReaderWriterTest [main] Running with Spring Boot v2.3.4.RELEASE, Spring v5.2.9.RELEASE
+2020-10-28 23:15:19,137 INFO com.suhas.springboot.jsonconverter.GenericJSONReaderWriterTest [main] The following profiles are active: prod
+2020-10-28 23:15:19,427 INFO com.suhas.springboot.jsonconverter.GenericJSONReaderWriterTest [main] Started GenericJSONReaderWriterTest in 1.209 seconds (JVM running for 3.154)
+2020-10-28 23:19:56,762 INFO com.suhas.springboot.jsonconverter.GenericJSONReaderWriterTest [main] Starting GenericJSONReaderWriterTest on kalyanisuhas-VPCEB36GM with PID 11296 (started by kalyanisuhas in /home/kalyanisuhas/SuhasWorkspace/SpringBootSocket)
+2020-10-28 23:19:56,781 DEBUG com.suhas.springboot.jsonconverter.GenericJSONReaderWriterTest [main] Running with Spring Boot v2.3.4.RELEASE, Spring v5.2.9.RELEASE
+2020-10-28 23:19:56,782 INFO com.suhas.springboot.jsonconverter.GenericJSONReaderWriterTest [main] The following profiles are active: prod
+2020-10-28 23:19:57,054 INFO com.suhas.springboot.jsonconverter.GenericJSONReaderWriterTest [main] Started GenericJSONReaderWriterTest in 1.156 seconds (JVM running for 3.461)
+2020-10-28 23:20:50,370 INFO com.suhas.springboot.jsonconverter.GenericJSONReaderWriterTest [main] Starting GenericJSONReaderWriterTest on kalyanisuhas-VPCEB36GM with PID 11374 (started by kalyanisuhas in /home/kalyanisuhas/SuhasWorkspace/SpringBootSocket)
+2020-10-28 23:20:50,386 DEBUG com.suhas.springboot.jsonconverter.GenericJSONReaderWriterTest [main] Running with Spring Boot v2.3.4.RELEASE, Spring v5.2.9.RELEASE
+2020-10-28 23:20:50,386 INFO com.suhas.springboot.jsonconverter.GenericJSONReaderWriterTest [main] The following profiles are active: prod
+2020-10-28 23:20:50,618 INFO com.suhas.springboot.jsonconverter.GenericJSONReaderWriterTest [main] Started GenericJSONReaderWriterTest in 1.614 seconds (JVM running for 4.535)
+2020-10-28 23:21:43,706 INFO com.suhas.springboot.jsonconverter.GenericJSONReaderWriterTest [main] Starting GenericJSONReaderWriterTest on kalyanisuhas-VPCEB36GM with PID 11438 (started by kalyanisuhas in /home/kalyanisuhas/SuhasWorkspace/SpringBootSocket)
+2020-10-28 23:21:43,723 DEBUG com.suhas.springboot.jsonconverter.GenericJSONReaderWriterTest [main] Running with Spring Boot v2.3.4.RELEASE, Spring v5.2.9.RELEASE
+2020-10-28 23:21:43,724 INFO com.suhas.springboot.jsonconverter.GenericJSONReaderWriterTest [main] The following profiles are active: prod
+2020-10-28 23:21:44,005 INFO com.suhas.springboot.jsonconverter.GenericJSONReaderWriterTest [main] Started GenericJSONReaderWriterTest in 1.165 seconds (JVM running for 3.616)
+2020-10-28 23:25:17,521 INFO com.suhas.springboot.jsonconverter.GenericJSONReaderWriterTest [main] Starting GenericJSONReaderWriterTest on kalyanisuhas-VPCEB36GM with PID 11509 (started by kalyanisuhas in /home/kalyanisuhas/SuhasWorkspace/SpringBootSocket)
+2020-10-28 23:25:17,540 DEBUG com.suhas.springboot.jsonconverter.GenericJSONReaderWriterTest [main] Running with Spring Boot v2.3.4.RELEASE, Spring v5.2.9.RELEASE
+2020-10-28 23:25:17,541 INFO com.suhas.springboot.jsonconverter.GenericJSONReaderWriterTest [main] The following profiles are active: prod
+2020-10-28 23:25:18,122 INFO com.suhas.springboot.jsonconverter.GenericJSONReaderWriterTest [main] Started GenericJSONReaderWriterTest in 1.958 seconds (JVM running for 4.945)
